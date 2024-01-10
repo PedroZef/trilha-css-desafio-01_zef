@@ -18,5 +18,7 @@ que você possa se basear.
 *Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
 é necessário utilizar a propriedade -webkit-background-clip: text;*
 
+A proposta do desafio foi de montar uma página em HTML e usar as tags de forma semântica. Apesar que não foi mencionado o uso de css. Porém, tomei a liberdade de usar a fim de deixá-la mais atrativa.
+
 Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
 utilizando o comando `git checkout final` no seu terminal.
